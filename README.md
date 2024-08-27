@@ -1,4 +1,4 @@
-# Enterprise Prototype
+# Brainwave
 
 ## Descripción del Proyecto
 
